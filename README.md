@@ -28,7 +28,7 @@ A full-stack social blogging app built with:
 
 ## 📌 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ifham-khan-691b1134b).
 - 📧 Email: ifhamk3435@gmail.com
 - 💬 Reach out if you want to collaborate, ask about the tech stack, or just say hi!
 
