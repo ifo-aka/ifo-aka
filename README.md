@@ -7,11 +7,12 @@ I'm a passionate full-stack developer with a love for blending low-level systems
 - 💾 Started with **C** — mastered memory management with `malloc`
 - 🔧 Built neural nets in **C++** — even made an XOR gate MLP!
 - ☕ Advanced in **Java** — concurrency, thread pooling, WebSockets, Servlets
-- 🌱 Currently learning **Spring Boot** for robust backend development
+- 🌱 Currently learning **Spring Boot** for robust backend development(almost done)
 - 🌐 Frontend Wizardry:
   - HTML5 / CSS3
   - JavaScript (Advanced)
   - React + Redux (Advanced) — built a dynamic dashboard
+  - learning next.js  for more flexebility.
   - Exploring **Three.js** for 3D interfaces
 
 ## 📝 Featured Project: Blog Platform
